@@ -90,7 +90,7 @@ function Home() {
                 </ul>
               </div>
             </div>
-            <a className="btn btn-outline btn-secondary cursor-pointer mt-5" href="https://drive.google.com/file/d/1cL2bclxz0B26LjDiz2Nz4BABkYBcoH2e/view?usp=sharing" >Download Resume</a>
+            <a className="btn btn-outline btn-secondary cursor-pointer mt-5" href="https://drive.google.com/file/d/1UlkHSdsFvowyMcHi3fsjyulGiZUjwb_-/view?usp=sharing" >Download Resume</a>
           </div>
         </div>
       </div>
